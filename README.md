@@ -1,2 +1,2 @@
 # physics_simulator
-A hobby project for me to improve my software development skills, as well as improve my education of the world and space.
+A hobby project designed to test my software development skills and develop them, while at the same time teaching me more about how the world and space works.
