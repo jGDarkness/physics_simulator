@@ -3,6 +3,37 @@ A hobby project designed to test my software development skills and develop them
 
 # Feature Implementation 1.0
 
+## Design Implementation Status
+[ ] 1. Be able to display a single point in space inside a rendering window.
+[ ] 2. Be able to display a line with points on either end inside a rendering window.
+[ ] 3. Be able to display a 2D polygon with points on each vertex inside a rendering window.
+[ ] 4. Be able to display a 3D polygon with points on each vertex inside a rendering window.
+[ ] 5. Be able to display a 4D object with points on each vertex inside a rendering window.
+[ ] Application Window
+[ ] Title Bar with window controls
+[ ] Menu Bar
+    [ ] File
+    [ ] Edit
+    [ ] Help
+    [ ] About
+[ ] Rendering Window
+[ ] Status Bar
+[ ] Toolbar and/or Toolbox
+[ ] Properties Window
+    [ ] Properties Bar
+    [ ] Properties Panel
+[ ] Rendering Window Controls
+[ ] Realtime calculation peephole, also displaying the cursor's coordinates in the 3D space in real-time
+[ ] implement requirements.txt for the items in the list.
+[ ] PyQt6 - Python bindings for the Qt cross-platform application framework.
+[ ] PyOpenGL - Python bindings for the OpenGL graphics library.
+[ ] PyOpenGL-accelerate - Python bindings for the OpenGL graphics library.
+[ ] NumPy - Python library for numerical computing.
+[ ] SciPy - Python library for scientific computing.
+[ ] GLFW - Python bindings for the GLFW library.
+[ ] PyInstaller - Python library for creating standalone executables from Python scripts.
+[ ] SCons - CONSIDERATION ONLY
+
 ## requirements.txt
 Implemented requirements.txt for the baseline design with the following dependencies:
 <UL>
